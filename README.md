@@ -2,6 +2,8 @@
 
 A modern, AI-powered travel planning application that helps you discover and plan your perfect trip. Built with Flutter and Firebase for a beautiful, cross-platform experience.
 
+🌐 **Live Demo:** [compass-ai-travel1234.web.app](https://compass-ai-travel1234.web.app)
+
 [![Try in IDX](https://cdn.idx.dev/btn/try_light_32.svg)](https://idx.google.com/new?template=https%3A%2F%2Fgithub.com%2FFirebaseExtended%2Fcompass-ai-travel-planning-sample-flutter)
 
 ## ✨ Features
