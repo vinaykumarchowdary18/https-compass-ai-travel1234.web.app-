@@ -103,8 +103,9 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## 📬 Contact
 
-For questions or feedback, please open an issue on the [GitHub repository](https://github.com/FirebaseExtended/compass-ai-travel-planning-sample-flutter).
-
+For questions or feedback, please open an issue on the [GitHub repository](https://github.com/vinaykumarchowdary18/https-compass-ai-travel1234.web.app-).
+ Mail id: mandadivinaykumarchowdary@gmail.com
 ---
 
 > **Note**: This app is not an officially supported Google product.
+
